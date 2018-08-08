@@ -1,11 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 1: August 7, 2017
+### Day 1: Tuesday, August 7, 2017
 **Today's Progress**: Learned of DailyUI challenge and recreated a landing page.
 
 **Thoughts:** More of a warm up day, to test the 1-hour timeslot. Spent too much time looking for an idea. Hoping the daily 1-hour routine will help me be less 'precious' with my choices.
 
 **Link to work:** [DailyUI Mining and Mineral Processing](https://codepen.io/akc52/pen/bjxPom/)
+
+### Day 2: Wednesday, August 8, 2017
+
+**Today's Progress**: Read the d3 intro docs and tried some basics.
+
+**Thoughts:** Lot's of potential with this library for data visualization. Need to brainstorm ideas for projects to tru.
+
+**Link to work:** [d3 Tests](https://codepen.io/akc52/pen/GBwpbx)
 
 <!--
 ### Day X: 
