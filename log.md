@@ -23,6 +23,14 @@
 
 **Link to work:** [Tweety](https://codepen.io/akc52/pen/77a00bf3afbe0715eb5374363de749b0/)
 
+### Day 4: Friday, August 10, 2018 
+
+**Today's Progress**: Created D3 chart with transitions.
+
+**Thoughts:** These are fun. 
+
+**Link to work:** [Hours of Sleep in the last two weeks - d3 test](https://codepen.io/akc52/pen/xJMEBq)
+
 
 <!--
 ### Day X: 
