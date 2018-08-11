@@ -31,6 +31,14 @@
 
 **Link to work:** [Hours of Sleep in the last two weeks - d3 test](https://codepen.io/akc52/pen/xJMEBq)
 
+### Day 5: Saturday, August 11, 2018 
+
+**Today's Progress**: Not a lot of progress, as I kept switching between topics. D3 to svg to atomic react to machine learning in one hour.
+
+**Thoughts:** Need to focus on one task per day. I eventually added css variable updating to an old pen to have some code to link. 
+
+**Link to work:** [Animated Brick Background](https://codepen.io/akc52/pen/oMmEKJ)
+
 
 <!--
 ### Day X: 
