@@ -39,6 +39,14 @@
 
 **Link to work:** [Animated Brick Background](https://codepen.io/akc52/pen/oMmEKJ)
 
+### Day 6: Sunday, August 12, 2018 
+
+**Today's Progress**: Continued brick background from Day 5.
+
+**Thoughts:** Did not have as much availabiltiy today as hoped. Continued on previous pen, adding random color changing. Almost finished random positioning, but missing something. TBC
+
+**Link to work:** [Animated Brick Background](https://codepen.io/akc52/pen/oMmEKJ)
+
 
 <!--
 ### Day X: 
