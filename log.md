@@ -47,6 +47,13 @@
 
 **Link to work:** [Animated Brick Background](https://codepen.io/akc52/pen/oMmEKJ)
 
+### Day 7: Monday, August 13, 2018 
+
+**Today's Progress**: Started by working on the previous pen, only to realize what I was trying to do was not supported spec. Switched to GSAP.
+
+**Thoughts:** This will be a lot of fun when I have an idea ready for the developing.
+
+**Link to work:** [GSAP SplitText test](https://codepen.io/akc52/pen/78c0d7edd92c4caf771fa2d51435905e)
 
 <!--
 ### Day X: 
