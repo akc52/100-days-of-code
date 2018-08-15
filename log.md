@@ -55,6 +55,14 @@
 
 **Link to work:** [GSAP SplitText test](https://codepen.io/akc52/pen/78c0d7edd92c4caf771fa2d51435905e)
 
+### Day 8: Tuesday, August 14, 2018 
+
+**Today's Progress**: Started on a fitness app, using react.
+
+**Thoughts:** Have been brainstorming parts of this for the last few days. Haven't used react before so this should be fun.
+
+**Link to work:** [FitnessApp](https://github.com/akc52/FitnessApp)
+
 <!--
 ### Day X: 
 
