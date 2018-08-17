@@ -63,6 +63,23 @@
 
 **Link to work:** [FitnessApp](https://github.com/akc52/FitnessApp)
 
+### Day 9: Wednesday, August 15, 2018 
+
+**Today's Progress**: A non-progress day.
+
+**Thoughts:** Spent a lot of time switching between ideas, or researching what I'd like to do. No final product worth linking to, and I'm not sure if this counts as a 'completed day' at all. I should probably brainstorm a list of 1-hour projects for future days like this. 
+The fitness app I started yesterday needs a lot more planning, or perhaps 1-hour react tutorial followed by 1-hour coding.
+Looking forward to the weekend to have a larger chunk of free time available for planning the remainder of the challenge.
+Note to self: Sprucing up previous pens/projects is another option when out of ideas.
+
+### Day 10: Thursday, August 16, 2018 
+
+**Today's Progress**: Worked on many different ideas, then realized I needed something 'finished' to link to so I made another Daily UI.
+
+**Thoughts:** Need a battleplan.
+
+**Link to work:** [Recreate Daily UI #027](https://codepen.io/akc52/pen/BPgebx/)
+
 <!--
 ### Day X: 
 
