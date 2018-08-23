@@ -84,9 +84,25 @@ Note to self: Sprucing up previous pens/projects is another option when out of i
 
 **Today's Progress**: Created a React To Do app.
 
-**Thoughts:** Last couple days I was researching/playing, but end of the day didn't have a final product to commit or link. Added a new repo called 'todo', to potentially add To Do apps form any future library/framework/language I may like to test.
+**Thoughts:** Last couple days I was researching/playing, but end of the day didn't have a final product to commit or link. Added a new repo called 'todo', to potentially add To Do apps from any future library/framework/language I may like to test.
 
 **Link to work:** [React To Do app](https://github.com/akc52/todo/tree/master/react-todo)
+
+### Day 12: Tuesday, August 21, 2018
+
+**Today's Progress**: Created a Vue To Do app.
+
+**Thoughts:** Not sure if I have a preference between React or Vue.
+
+**Link to work:** [Vue To Do app](https://github.com/akc52/todo/tree/master/vue-todo)
+
+### Day 13: Wednesday, August 22, 2018
+
+**Today's Progress**: *Tried* to create an Angular To Do app. Spent twice as long as both Vue and React To Dos, and still not working.
+
+**Thoughts:** Not sure if I have a preference between React or Vue, but currently prefer both to Angular.
+
+**Link to work:** [Angular To Do app](https://github.com/akc52/todo/tree/master/angular-todo)
 
 <!--
 ### Day X:
