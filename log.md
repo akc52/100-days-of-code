@@ -104,6 +104,14 @@ Note to self: Sprucing up previous pens/projects is another option when out of i
 
 **Link to work:** [Angular To Do app](https://github.com/akc52/todo/tree/master/angular-todo)
 
+### Day 14: Tuesday, August 28, 2018
+
+**Today's Progress**: Made a pretty thing with p5js.
+
+**Thoughts:** Another library that would be fun to play with.
+
+**Link to work:** [Triangle wormhole drawer (with p5js)](https://codepen.io/akc52/pen/VGjGXJ)
+
 <!--
 ### Day X:
 
