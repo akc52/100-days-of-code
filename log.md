@@ -112,13 +112,21 @@ Note to self: Sprucing up previous pens/projects is another option when out of i
 
 **Link to work:** [Triangle wormhole drawer (with p5js)](https://codepen.io/akc52/pen/VGjGXJ)
 
-### Day 15: Monday, September 2, 2018
+### Day 15: Monday, September 3, 2018
 
 **Today's Progress**: Another varied day. Created a repo to hold the algorithums and such that I've been trying.
 
 **Thoughts:** Did a lot of brushing up. Better handle on flexbox/css grid.
 
 **Link to work:** [Alogrithums and Such](https://github.com/akc52/algos)
+
+### Day 16: Wednesday, September 5, 2018
+
+**Today's Progress**: Another varied day. Created a bouncing ball animation using GSAP.
+
+**Thoughts:** 
+
+**Link to work:** [GSAP Bouncing Ball](https://codepen.io/akc52/pen/aayaWx)
 
 <!--
 ### Day X:
