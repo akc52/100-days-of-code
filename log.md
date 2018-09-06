@@ -128,6 +128,14 @@ Note to self: Sprucing up previous pens/projects is another option when out of i
 
 **Link to work:** [GSAP Bouncing Ball](https://codepen.io/akc52/pen/aayaWx)
 
+### Day 17: Thursday, September 6, 2018
+
+**Today's Progress**: Following a pluralsight React tutorial. A few new concepts, and it seems a large portion of the tutorial is Redux. Reviewing old notes.
+
+**Thoughts:** 
+
+**Link to work:** [Building Applications with React and Redux in ES6](https://github.com/akc52/react-redux-demo)
+
 <!--
 ### Day X:
 
