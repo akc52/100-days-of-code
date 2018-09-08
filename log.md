@@ -124,17 +124,30 @@ Note to self: Sprucing up previous pens/projects is another option when out of i
 
 **Today's Progress**: Another varied day. Created a bouncing ball animation using GSAP.
 
-**Thoughts:** 
-
-**Link to work:** [GSAP Bouncing Ball](https://codepen.io/akc52/pen/aayaWx)
+**Link to work:**
+- [GSAP Bouncing Ball](https://codepen.io/akc52/pen/aayaWx)
+- [iOS Interactive Story App tutorial](https://github.com/akc52/InteractiveStory)
 
 ### Day 17: Thursday, September 6, 2018
 
 **Today's Progress**: Following a pluralsight React tutorial. A few new concepts, and it seems a large portion of the tutorial is Redux. Reviewing old notes.
 
-**Thoughts:** 
-
 **Link to work:** [Building Applications with React and Redux in ES6](https://github.com/akc52/react-redux-demo)
+
+---
+
+### Day 18: Saturday, September 8, 2018
+
+**Today's Progress**: Completed freeCodeCamp's React tutorial.
+
+**Thoughts:** I thought this challenege required creating custom code each day, so you could link to your work. I felt really guilty on days when I reviewed tutorials but didn't write something new, and I wouldn't count it toward the 100. That ruined the momentum and made it harder to stick to the routine.
+
+However, Twitter seems to be full of folks who frequently 'finish a video tutorial' but don't create anything, so I'm probably too hard on myself. It's my own fault for not tweeting more frequently and realizing this sooner...
+
+Regarding the React tutorial, it was great review and helped contextualize a lot of what I've learned. I'm surprised by the bredth of topics fcc covers. (I had always assumed it was solely HTML/CSS). I look forward to using this resource again, especially with Redux, D3 (the entire Data Visualization Section), Node, and algorithums practice.
+
+**Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/akc52)
+
 
 <!--
 ### Day X:
