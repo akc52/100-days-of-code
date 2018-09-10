@@ -138,9 +138,9 @@ Note to self: Sprucing up previous pens/projects is another option when out of i
 
 ### Day 18: Saturday, September 8, 2018
 
-**Today's Progress**: Completed freeCodeCamp's React tutorial.
+**Today's Progress**: Nearly completed freeCodeCamp's React tutorial.
 
-**Thoughts:** I thought this challenege required creating custom code each day, so you could link to your work. I felt really guilty on days when I reviewed tutorials but didn't write something new, and I wouldn't count it toward the 100. That ruined the momentum and made it harder to stick to the routine.
+**Thoughts:** I thought this challenge required creating custom code each day, so you could link to your work. I felt really guilty on days when I reviewed tutorials but didn't write something new, and I wouldn't count it toward the 100. That ruined the momentum and made it harder to stick to the routine.
 
 However, Twitter seems to be full of folks who frequently 'finish a video tutorial' but don't create anything, so I'm probably too hard on myself. It's my own fault for not tweeting more frequently and realizing this sooner...
 
@@ -148,6 +148,13 @@ Regarding the React tutorial, it was great review and helped contextualize a lot
 
 **Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/akc52)
 
+### Day 19: Sunday, September 9, 2018
+
+**Today's Progress**: Completed FCC's React Challenge.
+
+**Thoughts:** It was nice to complete a checklist. Next, I need a project idea to tackle and work on for a few days.
+
+**Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/akc52)
 
 <!--
 ### Day X:
