@@ -154,7 +154,16 @@ Regarding the React tutorial, it was great review and helped contextualize a lot
 
 **Thoughts:** It was nice to complete a checklist. Next, I need a project idea to tackle and work on for a few days.
 
-**Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/akc52)
+**Link to work: ** [freeCodeCamp Profile](https://www.freecodecamp.org/akc52)
+
+### Day 20: Monday, September 10, 2018
+
+**Today's Progress**: Finished on FCC - Accessibility, Flexbox, some ES6. Continued with PS "Building Applications with React and Redux in ES6". 
+
+**Thoughts:** Not getting redux (specifically reducers). I should focus on it tomorrow, rather than touch on at the end of the day.
+
+**Link to work:** 
+- [freeCodeCamp Profile](https://www.freecodecamp.org/akc52)
 
 <!--
 ### Day X:
