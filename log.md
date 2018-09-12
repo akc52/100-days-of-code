@@ -158,12 +158,21 @@ Regarding the React tutorial, it was great review and helped contextualize a lot
 
 ### Day 20: Monday, September 10, 2018
 
-**Today's Progress**: Finished on FCC - Accessibility, Flexbox, some ES6. Continued with PS "Building Applications with React and Redux in ES6". 
+**Today's Progress**: Finished on FCC - Accessibility, Flexbox, some ES6. Continued with PS "Building Applications with React and Redux in ES6".
 
 **Thoughts:** Not getting redux (specifically reducers). I should focus on it tomorrow, rather than touch on at the end of the day.
 
-**Link to work:** 
-- [freeCodeCamp Profile](https://www.freecodecamp.org/akc52)
+**Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/akc52)
+
+### Day 21: Tuesday, September 11, 2018
+
+**Today's Progress**: Working through some ES6 problems on fcc. Also, *won tickets to Web Unleashed 2018!!*
+
+**Thoughts:** I'll need to do a lot more practice with ES6.
+
+Also, in regards to winning tickets, you really never know what will happen until you try!
+
+**Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/akc52)
 
 <!--
 ### Day X:
