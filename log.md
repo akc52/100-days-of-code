@@ -176,13 +176,23 @@ Also, in regards to winning tickets, you really never know what will happen unti
 
 ### Day 22: Wednesday, September 12, 2018
 
-**Today's Progress**: Completed freeCodeCamp modules *Data Visualization with D3* and *JSON APIs and Ajax*. Going to work on the Data Visualization projects to complete the certificate, because why not. 
+**Today's Progress**: Completed freeCodeCamp modules *Data Visualization with D3* and *JSON APIs and Ajax*. Going to work on the Data Visualization projects to complete the certificate, because why not.
 
 **Thoughts:** A couple hours with fcc's *Data Visualization with D3* helped me more than a week of learning D3 on my own, heh. I'm flying through these, while also aware I can't rely on fcc entirely -- but it's a great starting point. A couple of the projects may be nice additions to a portfolio.
 
-**Link to work:** 
+**Link to work:**
 - [freeCodeCamp Profile](https://www.freecodecamp.org/akc52)
 - [barchart](https://github.com/akc52/data-visualization)
+
+### Day 23: Thursday, September 13, 2018
+
+**Today's Progress**: Working on d3 barchart project.
+
+**Thoughts:** Got a bit stuck after adding live data to the pen. Need to start work soon, so will commit as in progress.
+
+**Link to work:**
+- [freeCodeCamp Profile](https://www.freecodecamp.org/akc52)
+- [barchart](https://github.com/akc52/data-visualization/barchart/)
 
 <!--
 ### Day X:
