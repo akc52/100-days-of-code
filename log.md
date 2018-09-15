@@ -194,6 +194,14 @@ Also, in regards to winning tickets, you really never know what will happen unti
 - [freeCodeCamp Profile](https://www.freecodecamp.org/akc52)
 - [barchart](https://github.com/akc52/data-visualization/barchart/)
 
+### Day 24: Friday, September 14, 2018
+
+**Today's Progress**: Fixed strange 'mocha not loaded' error with D3 project. The testing library had to be loaded last. Cool.
+
+**Thoughts:** That was frustrating. Lost a couple days undoing/redoing work.
+
+**Link to work:** [barchart](https://github.com/akc52/data-visualization/barchart/)
+
 <!--
 ### Day X:
 
