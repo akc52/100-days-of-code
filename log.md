@@ -202,6 +202,14 @@ Also, in regards to winning tickets, you really never know what will happen unti
 
 **Link to work:** [barchart](https://github.com/akc52/data-visualization/barchart/)
 
+### Day 25: Sunday, September 16, 2018
+
+**Today's Progress**: Tried to make headway in my D3 barchart project, but lost a ton of time trying to rearrange the file structure and implement webpack. Got repeated 'mocha not loaded' errors.
+
+**Thoughts:** I thought I solved the mochas not loaded errors by rearranging the script load order, but it's apparently a bigger issue. Spent some time trying to find alternate solutions, with nothing yet.
+
+**Link to work:** [barchart](https://github.com/akc52/data-visualization/barchart/)
+
 <!--
 ### Day X:
 
