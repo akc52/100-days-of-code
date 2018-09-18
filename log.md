@@ -210,6 +210,14 @@ Also, in regards to winning tickets, you really never know what will happen unti
 
 **Link to work:** [barchart](https://github.com/akc52/data-visualization/barchart/)
 
+### Day 26: Monday, September 17, 2018
+
+**Today's Progress**: Same errors in Barchart project. I think they're related to environment set up. Alternative would be to use codepen exclusively, but I'd like to use version control for these projects.
+
+**Thoughts:** Might need to start from scratch. In the end, practiced algorithms on fcc.
+
+**Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/akc52)
+
 <!--
 ### Day X:
 
