@@ -218,6 +218,14 @@ Also, in regards to winning tickets, you really never know what will happen unti
 
 **Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/akc52)
 
+### Day 27: Tuesday, September 18, 2018
+
+**Today's Progress**: Finished a random quote generator (sans styling), using React.
+
+**Thoughts:** Feeling quite accomplished. The thing is very simple (and currently looks hideous) but the functionality is there and it was created without a tutorial.
+
+**Link to work:** [Random Quote Generator](https://github.com/akc52/randomquotegenerator)
+
 <!--
 ### Day X:
 
