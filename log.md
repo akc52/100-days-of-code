@@ -226,6 +226,16 @@ Also, in regards to winning tickets, you really never know what will happen unti
 
 **Link to work:** [Random Quote Generator](https://github.com/akc52/randomquotegenerator)
 
+### Day 28: Wednesday, September 19, 2018
+
+**Today's Progress**: Created a 'stand in' portfolio landing page. Super basic, but functional.
+
+Also renamed a few git repos, for uniformity's sake. I won't change the links here until I'm sure they'll stay as is.
+
+**Thoughts:** I have a problem with requiring perfection over progress... I've been over-thinking what needs to go on a portfolio page, and it only resulted in stress and no portfolio. This *super* basic version (essentially a collection of links) is good enough for now.
+
+**Link to work:** [Portfolio landing Page](https://akc52.github.io)
+
 <!--
 ### Day X:
 
