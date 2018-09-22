@@ -236,6 +236,12 @@ Also renamed a few git repos, for uniformity's sake. I won't change the links he
 
 **Link to work:** [Portfolio landing Page](https://akc52.github.io)
 
+### Day 29: Friday, September 21, 2018
+
+**Today's Progress**: Finished multiple algorithum challenges on fcc.
+
+**Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/akc52)
+
 <!--
 ### Day X:
 
