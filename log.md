@@ -242,6 +242,19 @@ Also renamed a few git repos, for uniformity's sake. I won't change the links he
 
 **Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/akc52)
 
+### Day 30: Saturday, September 22, 2018
+
+**Today's Progress**: Algorithm practice.
+
+**Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/akc52)
+
+### Day 31: Sunday, September 23, 2018
+
+**Today's Progress**: Algorithm practice.
+
+**Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/akc52)
+
+
 <!--
 ### Day X:
 
