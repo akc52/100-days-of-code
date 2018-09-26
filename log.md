@@ -254,6 +254,23 @@ Also renamed a few git repos, for uniformity's sake. I won't change the links he
 
 **Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/akc52)
 
+### Day 32: Monday, September 24, 2018
+
+**Today's Progress**: Continued on rsvp React app, adding guest filtering.
+
+**Link to work:** [RSVP - guest filtering](https://github.com/akc52/rsvp/commit/245935a38ac20e129d6aacb753ce141c250ad84b)
+
+### Day 33: Tuesday, September 25, 2018
+
+**Today's Progress**: Continued on rsvp React app, adding header, pending guest tile, counter.
+
+**Link to work:** [RSVP - Header, pending guest tile, counter](https://github.com/akc52/rsvp/commit/f73b153bf1e7ad7df1c925f9c5bd970cda1d493d)
+
+### Day 34: Wednesday, September 26, 2018
+
+**Today's Progress**: Refactored RSVP project organization.
+
+**Link to work:** [RSVP - Refactor project organization](https://github.com/akc52/rsvp/commit/e243252f2817350f2e2bd48da6464410d5833752)
 
 <!--
 ### Day X:
