@@ -43,7 +43,7 @@
 
 **Today's Progress**: Continued brick background from Day 5.
 
-**Thoughts:** Did not have as much availabiltiy today as hoped. Continued on previous pen, adding random color changing. Almost finished random positioning, but missing something. TBC
+**Thoughts:** Did not have as much availability today as hoped. Continued on previous pen, adding random color changing. Almost finished random positioning, but missing something. TBC
 
 **Link to work:** [Animated Brick Background](https://codepen.io/akc52/pen/oMmEKJ)
 
@@ -114,7 +114,7 @@ Note to self: Sprucing up previous pens/projects is another option when out of i
 
 ### Day 15: Monday, September 3, 2018
 
-**Today's Progress**: Another varied day. Created a repo to hold the algorithums and such that I've been trying.
+**Today's Progress**: Another varied day. Created a repo to hold the algorithms and such that I've been trying.
 
 **Thoughts:** Did a lot of brushing up. Better handle on flexbox/css grid.
 
@@ -144,7 +144,7 @@ Note to self: Sprucing up previous pens/projects is another option when out of i
 
 However, Twitter seems to be full of folks who frequently 'finish a video tutorial' but don't create anything, so I'm probably too hard on myself. It's my own fault for not tweeting more frequently and realizing this sooner...
 
-Regarding the React tutorial, it was great review and helped contextualize a lot of what I've learned. I'm surprised by the bredth of topics fcc covers. (I had always assumed it was solely HTML/CSS). I look forward to using this resource again, especially with Redux, D3 (the entire Data Visualization Section), Node, and algorithums practice.
+Regarding the React tutorial, it was great review and helped contextualize a lot of what I've learned. I'm surprised by the breadth of topics fcc covers. (I had always assumed it was solely HTML/CSS). I look forward to using this resource again, especially with Redux, D3 (the entire Data Visualization Section), Node, and algorithms practice.
 
 **Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/akc52)
 
@@ -238,7 +238,7 @@ Also renamed a few git repos, for uniformity's sake. I won't change the links he
 
 ### Day 29: Friday, September 21, 2018
 
-**Today's Progress**: Finished multiple algorithum challenges on fcc.
+**Today's Progress**: Finished multiple algorithm challenges on fcc.
 
 **Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/akc52)
 
@@ -256,13 +256,17 @@ Also renamed a few git repos, for uniformity's sake. I won't change the links he
 
 ### Day 32: Monday, September 24, 2018
 
-**Today's Progress**: Continued on rsvp React app, adding guest filtering.
+**Today's Progress**: Added guest filtering to React RSVP app.
 
-**Link to work:** [RSVP - guest filtering](https://github.com/akc52/rsvp/commit/245935a38ac20e129d6aacb753ce141c250ad84b)
+**Link to work:** [RSVP - commit 245935a ](https://github.com/akc52/rsvp/commit/245935a38ac20e129d6aacb753ce141c250ad84b)
 
 ### Day 33: Tuesday, September 25, 2018
 
 **Today's Progress**: Continued on rsvp React app, adding header, pending guest tile, counter.
+
+Started by working on D3 Barchart project, but I was a bit too fried to debug the scaling issue.
+
+**Thoughts:** Very tired EOD, hard to focus on tasks.
 
 **Link to work:** [RSVP - Header, pending guest tile, counter](https://github.com/akc52/rsvp/commit/f73b153bf1e7ad7df1c925f9c5bd970cda1d493d)
 
@@ -271,6 +275,28 @@ Also renamed a few git repos, for uniformity's sake. I won't change the links he
 **Today's Progress**: Refactored RSVP project organization.
 
 **Link to work:** [RSVP - Refactor project organization](https://github.com/akc52/rsvp/commit/e243252f2817350f2e2bd48da6464410d5833752)
+
+---
+
+### Day 35: Wednesday, October 3, 2018
+
+**Today's Progress**: Official progress is that I started on a react app for HackerYou Masterclass application.
+
+**Thoughts:** Nearly a week since my last entry. I went to a Startup open house night, an out of town wedding, and a [2 day web conference](https://fitc.ca/event/webu18/). I was starting to burn out before this break, so *sorry-not-sorry*? Even P90x has a 'rest week' once a month!
+
+The conference was great. I spent some time looking for others I'd like to attend (I'll need to remember [Smashing Magazine conference master list](https://www.smashingmagazine.com/web-tech-front-end-ux-conferences/)). A few seem extra interesting, whereas other are more 'destination based'. If only work had a conference budget...
+
+As for the HackerYou project, it's nice to have an assignment. I'll need to spend a few minutes mapping out how I want to organize it, but it should be fine -- plus a nice portfolio addition if I were to spruce it up beyond the requirements.
+
+**Link to work:** [Beau's - commit a0f031f](https://github.com/akc52/beaus/commit/a0f031f53635b0c6ebc6d39c67383517d89d621d)
+
+### Day 36: Thursday, October 4, 2018
+
+**Today's Progress**: X.
+
+**Thoughts:** X.
+
+**Link to work:** [X](X)
 
 <!--
 ### Day X:
