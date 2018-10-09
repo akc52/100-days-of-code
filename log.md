@@ -284,19 +284,47 @@ Started by working on D3 Barchart project, but I was a bit too fried to debug th
 
 **Thoughts:** Nearly a week since my last entry. I went to a Startup open house night, an out of town wedding, and a [2 day web conference](https://fitc.ca/event/webu18/). I was starting to burn out before this break, so *sorry-not-sorry*? Even P90x has a 'rest week' once a month!
 
-The conference was great. I spent some time looking for others I'd like to attend (I'll need to remember [Smashing Magazine conference master list](https://www.smashingmagazine.com/web-tech-front-end-ux-conferences/)). A few seem extra interesting, whereas other are more 'destination based'. If only work had a conference budget...
+The conference was great. I spent some time looking for others I'd like to attend (I'll need to remember [Smashing Magazine conference master list](https://www.smashingmagazine.com/web-tech-front-end-ux-conferences/)). A few seem extra interesting, whereas others are more 'destination based'. If only work had a conference budget...
 
 As for the HackerYou project, it's nice to have an assignment. I'll need to spend a few minutes mapping out how I want to organize it, but it should be fine -- plus a nice portfolio addition if I were to spruce it up beyond the requirements.
 
 **Link to work:** [Beau's - commit a0f031f](https://github.com/akc52/beaus/commit/a0f031f53635b0c6ebc6d39c67383517d89d621d)
 
-### Day 36: Thursday, October 4, 2018
+### Day 36: Friday, October 5, 2018
 
-**Today's Progress**: X.
+**Today's Progress**: Worked on Beau's app.
 
-**Thoughts:** X.
+**Thoughts:** Got frustrated with a CORS issue on fetch. Suspect it's related to the domain specified when generating access key.
 
-**Link to work:** [X](X)
+**Link to work:** [Beau's - commit 9ae5201](https://github.com/akc52/beaus/commit/9ae5201d6a6b0dce99ecc871cd4ab4de9acaf980)
+
+### Day 37: Saturday, October 6, 2018
+
+**Today's Progress**: Continued beau's.
+
+**Thoughts:** Still frustrated with CORS error, but needed to move on to complete what I could.
+
+**Link to work:** [Beau's - commit 5de66d8](https://github.com/akc52/beaus/commit/5de66b8c2604e7bb6f2429d13f346156ea348447)
+
+### Day 38: Sunday, October 7, 2018
+
+**Today's Progress**: Continued beau's with some minor styling. Worked a while on the CORS error, stashed all work.
+
+**Thoughts:** Working ahead when there is a major issue is frustrating.
+
+**Link to work:** [Beau's - commit 5de66d8](https://github.com/akc52/beaus/commit/ec75f0084b1fcfc983ef3db11f143d7052255a9b)
+
+### Day 39: Monday, October 8, 2018
+
+**Today's Progress**: Continued beau's...
+
+**Thoughts:** Not much more can be done without fixing this CORS/data retrieval error. I'm considering fetching all entries from API (663 pages), and filtering within app...?
+
+Will need to cross reference beer ID with stores, which is a different API call.
+
+Essentially (unnecessary for the application) styling remains unless I can fix the data issue.
+
+**Link to work:** [Beau's - multiple commits](https://github.com/akc52/beaus/commit/1405186464082a47d7458b3c1a806bb1c197cf45)
 
 <!--
 ### Day X:
