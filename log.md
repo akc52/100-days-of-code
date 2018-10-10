@@ -330,7 +330,15 @@ Essentially (unnecessary for the application) styling remains unless I can fix t
 
 **Today's Progress**: Finished beau's required functionality sans functional fetch.
 
-**Link to work:** [Beaus - multiple commits and merge to master](https://github.com/akc52/beaus/commit/1eb1b9a733ab1d6abc81d6821d1c1395ce61e3c3)
+**Link to work:** [Beau's - multiple commits and merge to master](https://github.com/akc52/beaus/commit/1eb1b9a733ab1d6abc81d6821d1c1395ce61e3c3)
+
+### Day 41: Wednesday, October 10, 2018
+
+**Today's Progress**: Replaced fetch with npm package fetchJsonp.
+
+**Thoughts:** Once the review is finished, I'd like to add a few features and styling.
+
+**Link to work:** [Beau's](https://github.com/akc52/beaus/pull/6)
 
 <!--
 ### Day X:
