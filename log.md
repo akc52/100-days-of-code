@@ -326,6 +326,12 @@ Essentially (unnecessary for the application) styling remains unless I can fix t
 
 **Link to work:** [Beau's - multiple commits](https://github.com/akc52/beaus/commit/1405186464082a47d7458b3c1a806bb1c197cf45)
 
+### Day 40: Tuesday, October 9, 2018
+
+**Today's Progress**: Finished beau's required functionality sans functional fetch.
+
+**Link to work:** [Beaus - multiple commits and merge to master](https://github.com/akc52/beaus/commit/1eb1b9a733ab1d6abc81d6821d1c1395ce61e3c3)
+
 <!--
 ### Day X:
 
