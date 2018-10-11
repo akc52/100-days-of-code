@@ -340,6 +340,14 @@ Essentially (unnecessary for the application) styling remains unless I can fix t
 
 **Link to work:** [Beau's](https://github.com/akc52/beaus/pull/6)
 
+### Day 42: Thursday, October 11, 2018
+
+**Today's Progress**: Added product selected state.
+
+**Thoughts:** I researched how other people implemented this, but none of them seemed ideal so I stuck with my first writing. Will need to keep an eye out for alternates.
+
+**Link to work:** [Beau's - Pull #10](https://github.com/akc52/beaus/pull/10)
+
 <!--
 ### Day X:
 
