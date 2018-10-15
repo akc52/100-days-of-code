@@ -338,7 +338,7 @@ Essentially (unnecessary for the application) styling remains unless I can fix t
 
 **Thoughts:** Once the review is finished, I'd like to add a few features and styling.
 
-**Link to work:** [Beau's](https://github.com/akc52/beaus/pull/6)
+**Link to work:** [Beau's - Pull #6](https://github.com/akc52/beaus/pull/6)
 
 ### Day 42: Thursday, October 11, 2018
 
@@ -347,6 +347,15 @@ Essentially (unnecessary for the application) styling remains unless I can fix t
 **Thoughts:** I researched how other people implemented this, but none of them seemed ideal so I stuck with my first writing. Will need to keep an eye out for alternates.
 
 **Link to work:** [Beau's - Pull #10](https://github.com/akc52/beaus/pull/10)
+
+### Day 43: Sunday, October 14, 2018
+
+**Today's Progress**: Started [AdvancedReact](https://advancedreact.com/) course by Wes Bos. Completed first intro/setup module, and half of styling module.
+
+**Thoughts:** Great course, looking forward to tomorrow.
+
+**Link to work:** [sick fits - commits](https://github.com/akc52/sick-fits/commit/24853670e92bddc0437c8633a44bc279e136931c)
+
 
 <!--
 ### Day X:
